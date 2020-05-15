@@ -1,7 +1,7 @@
-﻿namespace AspNetCoreMovie.Models
+﻿namespace AspNetCoreMovies.Models
 {
-    public class MovieViewModel
+    public class MoviesViewModel
     {
-        public MovieItem[] Items { get; set; }
+        public MoviesItem[] Items { get; set; }
     }
 }
